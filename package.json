@@ -1,0 +1,19 @@
+{
+  "name": "mkterm-cli",
+  "version": "1.0.0",
+  "description": "Local Web Terminal",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "mkterm": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Muralikrishna T<muralikrishna8811@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muralikrishnat/mkterm-cli"
+  }
+}
