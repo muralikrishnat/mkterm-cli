@@ -1,6 +1,6 @@
 {
   "name": "mkterm-cli",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "description": "Local Web Terminal",
   "main": "index.js",
   "type": "module",
@@ -12,7 +12,9 @@
   },
   "files": [
     "index.js",
-    "build"
+    "build",
+    "app-data",
+    "cli.js"
   ],
   "author": "Muralikrishna T<muralikrishna8811@gmail.com>",
   "license": "MIT",

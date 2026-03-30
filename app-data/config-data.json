@@ -1,0 +1,8 @@
+{
+  "baseDirPath": "",
+  "buildFolderName": "build",
+  "appDataFolderName": "app-data",
+  "appDataFolderPath": "./app-data",
+  "logLevel": "debug",
+  "defaultShellPath": null
+}
