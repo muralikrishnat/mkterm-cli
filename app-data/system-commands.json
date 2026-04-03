@@ -1,0 +1,25 @@
+{
+  "commands": [
+    {
+      "command": "/help",
+      "data": {
+        "desc": "List all available terminal commands",
+        "cat": "System"
+      }
+    },
+    {
+      "command": "/info",
+      "data": {
+        "desc": "Information of OS, CPU, GPU, NodeJS, Shell",
+        "cat": "System"
+      }
+    },
+    {
+      "command": "/config",
+      "data": {
+        "desc": "View terminal configuration",
+        "cat": "System"
+      }
+    }
+  ]
+}

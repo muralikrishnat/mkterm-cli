@@ -21,6 +21,7 @@
     "icon": "npm",
     "priority": 2,
     "commands": [
+      "npm run start",
       "npm run dev",
       "npm run build",
       "npm test",
@@ -54,6 +55,18 @@
       "du -sh *",
       "cat package.json",
       "mkdir -p src/components"
+    ]
+  },
+  {
+    "id": "SYSTEM_COMMANDS",
+    "name": "System Commands",
+    "icon": "fs",
+    "priority": 4,
+    "commands": [
+      "/help",
+      "/info",
+      "clear",
+      "stop"
     ]
   }
 ]
