@@ -1,0 +1,23 @@
+name: Create Tag from version
+on:
+  push:
+    branches:
+      - main
+jobs:
+  tag:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: [actions/checkout](https://github.com)@v4
+      
+      - name: Get version
+        id: get_version
+        run: echo "VERSION=$(node -p "require('./package.json').version")" >> $GITHUB_OUTPUT
+
+      - name: Create and Push Tag
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git tag v${{ steps.get_version.outputs.VERSION }}
+          git push origin v${{ steps.get_version.outputs.VERSION }}
