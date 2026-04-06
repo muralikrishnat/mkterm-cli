@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: [actions/checkout](https://github.com)@v4
+      - uses: actions/checkout@v4
       
       - name: Get version
         id: get_version
