@@ -142,3 +142,4 @@ user-data
 command-history.json
 folder-history.json
 pipelines.json
+.DS_Store

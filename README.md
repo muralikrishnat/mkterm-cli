@@ -1,5 +1,7 @@
 # MKTerm 🚀
 
+![Landing page of web terminal](./app-screens/favicon-96x96.png)
+
 **MKTerm** is a high-performance, web-based terminal interface designed for modern developers. 
 
 It bridges the gap between the power of a native shell and the accessibility of a web UI, offering a rich command-line experience with enhanced visualization tools.
@@ -12,7 +14,7 @@ It bridges the gap between the power of a native shell and the accessibility of 
 Install the CLI globally via npm:
 
 ```bash
-npm install -g mkterm
+npm install -g mkterm-cli
 ```
 
 ## Usage
