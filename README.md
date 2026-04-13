@@ -31,8 +31,7 @@ mkterm
 
 
 ## ⚠️ Limitations
-- TTY Support: Currently, TTY is not fully enabled. Highly interactive commands (like vim or top) may have limited support in the current version.
-
+- TTY Support: Currently, TTY is not enabled. Highly interactive commands (like vim or top) won't work.
 - Environment: Optimized for macOS (Darwin) and Linux.
 
 ### Built with ❤️ for the terminal-obsessed.

@@ -141,3 +141,4 @@ vite.config.ts.timestamp-*
 user-data
 command-history.json
 folder-history.json
+pipelines.json
