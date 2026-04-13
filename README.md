@@ -28,21 +28,21 @@ mkterm
 ![Landing page of web terminal](./app-screens/sys-commands.png)
 
 ### Command suggestions
-![Command suggestions](./app-screens/commands-suggestions.png)
+![Command suggestions](./app-screens/command-suggestions.png)
 
 ### Pipelines and apps
-![Command suggestions](./app-screens/command-folder-history.png)
+![Folder and command history](./app-screens/command-folder-history.png)
 
-![Command suggestions](./app-screens/saved-categories.png)
+![Saved categories](./app-screens/saved-categories.png)
 
-![Command suggestions](./app-screens/new-pipeline-app.png)
+![Add new pipeline](./app-screens/new-pipeline-app.png)
 
-![Command suggestions](./app-screens/pipeline-app-list.png)
+![pipeline app list](./app-screens/pipeline-app-list.png)
 
 ### Command meta
-![Command suggestions](./app-screens/available-shell-paths.png)
+![Available shell paths](./app-screens/available-shell-paths.png)
 
-![Command suggestions](./app-screens/available-folder-paths.png)
+![Available folder paths](./app-screens/available-folder-paths.png)
 
 
 
