@@ -1,6 +1,6 @@
 {
   "name": "mkterm-cli",
-  "version": "v0.29.0",
+  "version": "0.29.0",
   "description": "Local Web Terminal",
   "main": "index.js",
   "type": "module",
