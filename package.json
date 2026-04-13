@@ -10,6 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
+  "keywords": ["Local web terminal"],
   "files": [
     "index.js",
     "build",

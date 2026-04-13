@@ -22,6 +22,31 @@ Launch the terminal from any directory:
 mkterm
 ```
 
+## Some screenshots
+
+### System commands
+![Landing page of web terminal](./app-screens/sys-commands.png)
+
+### Command suggestions
+![Command suggestions](./app-screens/commands-suggestions.png)
+
+### Pipelines and apps
+![Command suggestions](./app-screens/command-folder-history.png)
+
+![Command suggestions](./app-screens/saved-categories.png)
+
+![Command suggestions](./app-screens/new-pipeline-app.png)
+
+![Command suggestions](./app-screens/pipeline-app-list.png)
+
+### Command meta
+![Command suggestions](./app-screens/available-shell-paths.png)
+
+![Command suggestions](./app-screens/available-folder-paths.png)
+
+
+
+
 
 | Command |	Description |
 | --------|-----------|
