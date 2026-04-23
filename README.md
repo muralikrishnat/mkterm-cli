@@ -6,6 +6,10 @@
 
 It bridges the gap between the power of a native shell and the accessibility of a web UI, offering a rich command-line experience with enhanced visualization tools.
 
+Check out our web site to other ways to install any more information 
+
+[https://mkterm.web.app/](https://mkterm.web.app/)
+
 
 ## 🚀 Getting Started
 
@@ -32,10 +36,10 @@ mkterm
 ### Command suggestions
 ![Command suggestions](./app-screens/command-suggestions.png)
 
-### Pipelines and apps
 ![Folder and command history](./app-screens/command-folder-history.png)
 
 ![Saved categories](./app-screens/saved-categories.png)
+### Pipelines and apps
 
 ![Add new pipeline](./app-screens/new-pipeline-app.png)
 
@@ -47,15 +51,24 @@ mkterm
 ![Available folder paths](./app-screens/available-folder-paths.png)
 
 
-
-
-
 | Command |	Description |
 | --------|-----------|
 |/help |Lists all available system-level terminal commands.|
 |/info	| Displays OS, CPU, GPU, and Node.js environment details.|
 |/config	|Opens the terminal configuration panel. (WIP)|
+|clear | Clear all terminal input and output|
+|stop| Stops current shell |
 
+<br>
+<br>
+
+## Latest Features
+- **pipelines/apps** - Run commands in multiple folder like frontend and backend.
+- **Alias commands** - Use alias commands and send actual command to backend to execute, this is simple layer and not on OS level.
+
+
+<br>
+<br>
 
 ## ⚠️ Limitations
 - TTY Support: Currently, TTY is not enabled. Highly interactive commands (like vim or top) won't work.
