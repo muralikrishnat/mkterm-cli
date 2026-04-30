@@ -20,6 +20,13 @@
         "desc": "View terminal configuration",
         "cat": "System"
       }
+    },
+    {
+      "command": "/folder-tree",
+      "data": {
+        "desc": "View folder tree",
+        "cat": "System"
+      }
     }
   ]
 }

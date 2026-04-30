@@ -10,6 +10,7 @@ Check out our web site to other ways to install any more information
 
 [https://mkterm.web.app/](https://mkterm.web.app/)
 
+You can check the mock demo that put together to play around [https://mkterm-demo.web.app/](https://mkterm-demo.web.app/)
 
 ## 🚀 Getting Started
 
@@ -55,14 +56,17 @@ mkterm
 | --------|-----------|
 |/help |Lists all available system-level terminal commands.|
 |/info	| Displays OS, CPU, GPU, and Node.js environment details.|
+|/folder-tree| Displays file structure |
 |/config	|Opens the terminal configuration panel. (WIP)|
 |clear | Clear all terminal input and output|
 |stop| Stops current shell |
+
 
 <br>
 <br>
 
 ## Latest Features
+- **/folder-tree** - System command to display the folder structure in tree format.
 - **pipelines/apps** - Run commands in multiple folder like frontend and backend.
 - **Alias commands** - Use alias commands and send actual command to backend to execute, this is simple layer and not on OS level.
 
